@@ -1,0 +1,8 @@
+# não incluir arquivos que terminem com .log
+*.log
+
+# não incluir qualquer arquivo que estiver na pasta temp
+temp/
+
+# arquivo secreto
+/secreto.txt
